@@ -1,6 +1,7 @@
 package pokemon;
 
 public class Pokemon {
+    //Pratica
     private String nomePokemon;
     private int forcaPokemon;
     private int agilidadePokemon;
