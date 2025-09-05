@@ -1,7 +1,7 @@
 package pokemon;
 
 public class Pokemon {
-    //Pratica
+    //Atributos
     private String nomePokemon;
     private int forcaPokemon;
     private int agilidadePokemon;
@@ -37,6 +37,11 @@ public class Pokemon {
     public void setVidaPokemon(int vidaPokemon) {
         this.vidaPokemon = vidaPokemon;
     }
+public void atacar(){
+    System.out.println(nomePokemon+" Atacou");
+}
+
+
 
 
 }
