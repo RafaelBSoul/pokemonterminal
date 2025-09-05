@@ -38,7 +38,11 @@ public class Pokemon {
         this.vidaPokemon = vidaPokemon;
     }
 public void atacar(){
-    System.out.println(nomePokemon+" Atacou");
+    System.out.println(nomePokemon+" Atacou!");
+}
+
+public void defender(){
+    System.out.println(nomePokemon+" Defendeu!");
 }
 
 

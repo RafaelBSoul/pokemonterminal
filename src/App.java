@@ -21,6 +21,7 @@ public class App {
 
 
 pokemon.atacar();
+pokemon.defender();
 
     }
 }
